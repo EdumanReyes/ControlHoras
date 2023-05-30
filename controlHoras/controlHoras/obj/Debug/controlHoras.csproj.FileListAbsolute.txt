@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\controlHoras\controlHoras\bin\Debug\controlHoras.exe.config
+C:\Users\eduar\source\repos\controlHoras\controlHoras\bin\Debug\controlHoras.exe
+C:\Users\eduar\source\repos\controlHoras\controlHoras\bin\Debug\controlHoras.pdb
+C:\Users\eduar\source\repos\controlHoras\controlHoras\obj\Debug\controlHoras.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\controlHoras\controlHoras\obj\Debug\controlHoras.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\controlHoras\controlHoras\obj\Debug\controlHoras.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\controlHoras\controlHoras\obj\Debug\controlHoras.exe
+C:\Users\eduar\source\repos\controlHoras\controlHoras\obj\Debug\controlHoras.pdb
